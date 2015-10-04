@@ -20,3 +20,4 @@ At some point, I'd like to return to this project and implement a non-recursive 
 1. https://swtch.com/~rsc/regexp/regexp1.html
 2. http://www.ddj.com/architect/184410904 --- Simple backtracking algorithm implemented in C
 3. http://www.codeproject.com/Articles/5412/Writing-own-regular-expression-parser --- For when I decide to write the NFA/DFA solution
+4. http://www.regular-expressions.info/
